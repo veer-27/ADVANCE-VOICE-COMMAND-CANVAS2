@@ -48,7 +48,7 @@ function setup() {
  screen_width = window.innerWidth;
  screen_height = window.innerHeight;
 
- canvas = createCanvas(150,150);
+ canvas = createCanvas(550,550);
  canvas.position(0,150);
 }
 
