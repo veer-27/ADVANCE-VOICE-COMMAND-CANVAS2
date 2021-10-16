@@ -1,0 +1,14 @@
+body
+{
+	background-color:gold;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background:lightblue;
+	border-radius: 20px;
+}
